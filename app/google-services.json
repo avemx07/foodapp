@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207634075921",
+    "firebase_url": "https://foodapp-cordoba.firebaseio.com",
+    "project_id": "foodapp-cordoba",
+    "storage_bucket": "foodapp-cordoba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207634075921:android:164cfd553d832846acbcb0",
+        "android_client_info": {
+          "package_name": "com.avemex.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207634075921-46a67p84p0o5pvrncjk0a4qs5gac3k6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBdVEgtVnK2VoF2g4sKxN9yDvG_FvNWKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207634075921-46a67p84p0o5pvrncjk0a4qs5gac3k6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
